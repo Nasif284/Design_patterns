@@ -1,0 +1,55 @@
+📚 Full Roadmap 
+
+
+Creational
+.............
+
+Singleton
+
+Factory
+
+Abstract Factory
+
+Builder
+
+Prototype
+
+
+
+Structural
+...........
+
+Adapter
+
+Facade
+
+Decorator
+
+Composite
+
+Proxy
+
+
+
+Behavioral
+...........
+
+Observer
+
+Strategy
+
+Command
+
+State
+
+Template Method
+
+Chain of Responsibility
+
+Iterator
+
+Mediator
+
+Memento
+
+Visitor
