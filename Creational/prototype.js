@@ -7,7 +7,7 @@ class User{
         console.log(this)
     }
     clone() {
-        return Object.assign(Object.getPrototypeOf(this),this)
+        return Object.assign(Object.create(Object.getPrototypeOf(this)),this)
     }
 }
 
